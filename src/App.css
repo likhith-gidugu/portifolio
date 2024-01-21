@@ -50,7 +50,7 @@ font-weight: bolder;
 /*main home css ends*/
 /*about css starts*/
 .aboutcontent{
-  padding: 7% 0%;
+  padding: 8% 0%;
   font-weight: bolder;
  
 
@@ -65,7 +65,7 @@ font-weight: bolder;
 
 
   background-color:#f5deb3;
-  padding: 3% 0%;
+  padding: 10% 0%;
   font-weight: bolder;
   font-family: 'Times New Roman', Times, serif;
   color:rgb(8, 5, 13)
@@ -73,10 +73,21 @@ font-weight: bolder;
 }
 /*projects css endss*/
 
-/*contacts css starts*/
+/*be in touch css starts*/
 
 ul{
 
   list-style-type: none;
 }
-/*contacts css endss*/
+
+a{
+
+text-decoration: none;
+color: #08050d;
+
+}
+
+
+
+
+/*be intouch css endss*/

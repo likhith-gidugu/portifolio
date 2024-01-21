@@ -37,3 +37,40 @@
  }
  }
   /*mainhome page media queries starts */
+
+    /*about page media queries starts */
+    @media (max-width:768px){
+    .aboutcontent{
+        padding: 15% 0% ;
+
+    }
+}
+          /*about page media queries endss */
+  /*be in touch page media queries starts*/
+  @media (min-width:768px){
+  
+
+  .cont ,.serv{
+
+padding: 10% 0%;
+
+  }
+  }
+  @media (max-width:768px){
+
+    .cont {
+
+        padding:15% 0% 5% 0%;
+        
+          }
+        
+
+     .serv{
+        padding:0% 0% 10% 0%;
+
+
+     }     
+    }
+
+  
+  /*be in touch page media queries ends*/

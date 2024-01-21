@@ -24,7 +24,7 @@ return(
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#contact">contact</a>
+          <a class="nav-link" href="#beintouch">Be In Touch</a>
         </li>
        
       </ul>

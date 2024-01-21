@@ -5,8 +5,8 @@ import Navigation from './Navigation';
 
 import Mainhome from './Mainhome';
 import About from './About';
-import Contact from './Contact';
 import Projects from './Projects';
+import Beintouch from './Beintouch';
 
 
 
@@ -17,7 +17,7 @@ const App  = () => {
     <Mainhome/>
     <About/>
     <Projects/>
-    <Contact/>
+    <Beintouch/>
     
     
     </section>
