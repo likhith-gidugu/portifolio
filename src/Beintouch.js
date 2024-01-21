@@ -13,6 +13,7 @@ return(
     <center>
     
     <div className="row">
+   
         <div className="col-md-6 col-sm-12  cont">
         <h2 style={{textDecoration:"underline" ,color: "#064f8f"}}>CONTACT INFO</h2>
          <span>

@@ -20,13 +20,13 @@ return(
           <a class="nav-link" href="#about">About </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Projects">Project</a>
+          <a class="nav-link" href="#Projects">Projects</a>
         </li>
 
         <li class="nav-item">
           <a class="nav-link" href="#beintouch">Be In Touch</a>
         </li>
-       
+      
       </ul>
     </div>
   </div>
