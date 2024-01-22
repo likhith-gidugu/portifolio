@@ -11,11 +11,12 @@ return(
 
 <footer className="container-fluid beintouch" style={{backgroundColor:"rgb(212, 196, 236)" }} id="beintouch">
     <center>
-    
+    <br/> 
     <div className="row">
-   
+      
+   <h2 style={{textDecoration:"underline",color:"rgb(183 9 57 / 80%)"}}>BE IN TOUCH</h2>
         <div className="col-md-6 col-sm-12  cont">
-        <h2 style={{textDecoration:"underline" ,color: "#064f8f"}}>CONTACT INFO</h2>
+        <h3 style={{textDecoration:"underline" ,color: "#064f8f"}}>CONTACT INFO</h3>
          <span>
            <img src={email} alt="email"/>
             <a href= "mailto:likhithgidugu036@gmail.com " > likhithgidugu036@gmail.com  </a> </span>
@@ -37,10 +38,11 @@ return(
         <div className="col-md-6 col-sm-12 serv" >
     <h2 style={{textDecoration:"underline" ,color: "#064f8f"}}> SERVICES</h2>
     <ul>
-<li>WEB DESIGNING</li>
-<li>TEAM WORK</li>
-<li>HISTORY</li>
-<li>FRONTEND DEVELOPMENT</li>
+
+<li>OPTIMIZING USER PERFORMANCE</li>
+<li>BUILDING REUSABLE CODE</li>
+<li>STAY IN UPDATE WITH TREND</li>
+<li>DESINGING WEB APPLICATIONS</li>
 
 
 

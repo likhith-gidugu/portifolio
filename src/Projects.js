@@ -12,6 +12,7 @@ return(
 
 <center>
                 <h1 style={{ textDecoration:"underline" }}>PROJECTS DEVELOPED</h1>
+                <br/>
             
             </center>
             
@@ -19,15 +20,15 @@ return(
     <div className='carousel-inner'>  
     <div className='carousel-item active'>
        <a href="https://likhith-summermocup.000webhostapp.com/"> <img src={summer} alt='summer banner' className='d-block w-100' style={{height:'300px'}}/> </a>
-        <h4 style={{textAlign:"center"}}>SUMMER MOCUP click on the banner to watch </h4>
+         <br/> <h4 style={{textAlign:"center"}}>SUMMER MOCUP click on the banner to watch </h4>
         </div>  
         <div className='carousel-item '>
       <a href="https://likhith-yogaapp.000webhostapp.com/"> <img src={yoga} alt='yoga' className='d-block w-100'  style={{height:'300px'}}/> </a>
-      <h4 style={{textAlign:"center"}}>YOGA MOCUP click on the banner to watch </h4>
+        <br/><h4 style={{textAlign:"center"}}>YOGA MOCUP click on the banner to watch </h4>
         </div>  
         <div className='carousel-item '>
         <a href="https://likhith-burgerhouse.000webhostapp.com/"> <img src={burger} alt='burger' className='d-block w-100'  style={{height:'300px'}}/> </a>
-        <h4 style={{textAlign:"center"}}>BURGER MOCUP click on the banner to watch </h4>
+          <br/><h4 style={{textAlign:"center"}}>BURGER MOCUP click on the banner to watch </h4>
         </div>  
 
 <button className='carousel-control-prev' data-bs-target='#myCarousel' data-bs-slide='prev'><span className='carousel-control-prev-icon'></span></button>
